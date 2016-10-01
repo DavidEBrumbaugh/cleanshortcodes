@@ -3,8 +3,8 @@
 Plugin Name: Clean Up Shortcodes
 Plugin URI: http://codementor.io/davidbrumbaugh
 Description: Remove unused (orphan) shortcode tags from posts.
-Author: Meks
-Version: 1.1
+Author: David Brumbaugh
+Version: 1.0
 Text Domain: cleanup-shortcodes
 Author URI: http://codementor.io/davidbrumbaugh
 */
